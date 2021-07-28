@@ -9,7 +9,7 @@ hello git,I am coming!
 hello git,I am coming!
 hello git,I am coming!
 hello git,I am coming!
-hello git,I am coming!hot-fix testtesttest
+hello git,I am coming!
 hello git,I am coming!master testtest
 hello git,I am coming!hot-fix testtest
 hello git,I am coming!master test
