@@ -1,3 +1,2 @@
-server:
-  port: 80
-  info: master,config-test
+config:
+  info: "main,config-test.yml"
