@@ -1,5 +1,2 @@
-server:
-  port: 80
-  info: master,config-dev.yml
 config:
   info: "main,config-dev.yml"
